@@ -1,0 +1,9 @@
+{
+  "name": "test-security",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nested-object-assign": "^1.0.3"
+  }
+}
